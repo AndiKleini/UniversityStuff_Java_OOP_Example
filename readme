@@ -1,0 +1,15 @@
+1. Lecture (add new properties)
+Add property faculty to Teacher
+Add property branch to Student
+
+
+
+2. Lecture (implement interface IEmployee)
+Payslip (gross, net, tax, hoursAWeek)
+IEmployee interface mit getPaySlip() methode
+Payslip getPaySlip()
+
+Generics
+Collections WH JCFW
+
+Generics
